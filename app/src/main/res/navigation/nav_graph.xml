@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_batches">
+
+    <fragment
+        android:id="@+id/navigation_batches"
+        android:name="com.videogenerator.presentation.ui.batch.BatchesFragment"
+        android:label="Batches" />
+
+    <fragment
+        android:id="@+id/navigation_generate"
+        android:name="com.videogenerator.presentation.ui.generate.GenerateFragment"
+        android:label="Generate" />
+
+    <fragment
+        android:id="@+id/navigation_history"
+        android:name="com.videogenerator.presentation.ui.history.HistoryFragment"
+        android:label="History" />
+
+</navigation>
