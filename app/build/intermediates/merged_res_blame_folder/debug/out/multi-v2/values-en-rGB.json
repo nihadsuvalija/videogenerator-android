@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.videogenerator.app-mergeDebugResources-57:/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "com.videogenerator.app-mergeDebugResources-58:/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/Users/nihadsuvalija/.gradle/caches/transforms-3/c456e6d59e393476e961a5f98280efcd/transformed/appcompat-1.6.1/res/values-en-rGB/values-en-rGB.xml",

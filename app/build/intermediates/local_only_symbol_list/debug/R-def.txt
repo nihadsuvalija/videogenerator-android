@@ -1,11 +1,22 @@
 R_DEF: Internal format may change without notice
 local
+color background
 color black
-color purple_200
-color purple_500
-color purple_700
-color teal_200
-color teal_700
+color bottom_nav_tint
+color divider
+color error
+color on_primary
+color on_secondary
+color on_surface
+color on_surface_muted
+color primary
+color primary_variant
+color secondary
+color secondary_variant
+color status_bar
+color success
+color surface
+color surface_variant
 color white
 drawable ic_folder
 drawable ic_history
@@ -72,5 +83,8 @@ layout item_generated_video
 menu bottom_nav_menu
 navigation nav_graph
 string app_name
+style BottomNavStyle
+style CardStyle
 style Theme.VideoGenerator
+style ToolbarStyle
 xml file_paths

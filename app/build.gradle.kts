@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.videogenerator"
+    namespace = "com.videogen.studio"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.videogenerator"
+        applicationId = "com.videogen.studio"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
@@ -98,4 +98,5 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+    implementation("com.moizhassan.ffmpeg:ffmpeg-kit-16kb:6.1.1")
 }

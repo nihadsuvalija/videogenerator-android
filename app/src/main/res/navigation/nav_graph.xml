@@ -6,17 +6,17 @@
 
     <fragment
         android:id="@+id/navigation_batches"
-        android:name="com.videogenerator.presentation.ui.batch.BatchesFragment"
+        android:name="com.videogen.studio.presentation.ui.batch.BatchesFragment"
         android:label="Batches" />
 
     <fragment
         android:id="@+id/navigation_generate"
-        android:name="com.videogenerator.presentation.ui.generate.GenerateFragment"
+        android:name="com.videogen.studio.presentation.ui.generate.GenerateFragment"
         android:label="Generate" />
 
     <fragment
         android:id="@+id/navigation_history"
-        android:name="com.videogenerator.presentation.ui.history.HistoryFragment"
+        android:name="com.videogen.studio.presentation.ui.history.HistoryFragment"
         android:label="History" />
 
 </navigation>

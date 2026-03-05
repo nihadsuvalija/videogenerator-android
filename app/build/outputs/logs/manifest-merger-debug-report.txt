@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:38:9-46:20
+INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:43:9-51:20
 	android:grantUriPermissions
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:42:13-47
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:47:13-47
 	android:authorities
 		INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:40:13-64
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:45:13-64
 	android:exported
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:41:13-37
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:46:13-37
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:39:13-62
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:44:13-62
 manifest
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:2:1-50:12
-INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:2:1-50:12
-INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:2:1-50:12
-INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:2:1-50:12
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:2:1-55:12
 MERGED from [androidx.databinding:viewbinding:8.2.2] /Users/nihadsuvalija/.gradle/caches/transforms-3/8195d2bfb219e63964d2567c1ac61b72/transformed/jetified-viewbinding-8.2.2/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/nihadsuvalija/.gradle/caches/transforms-3/887a685997b04fa92a3440a323470048/transformed/navigation-common-2.7.7/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/nihadsuvalija/.gradle/caches/transforms-3/857c227d8b9a35d11722176d9af47f90/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
@@ -88,48 +88,57 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/niha
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/2f93e24164edf582ec347db92ed1413b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/1785c588a9fd035e3f42cece86f1e9a0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/1301aa96ca33f068c31c9e700480d99d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.moizhassan.ffmpeg:ffmpeg-kit-16kb:6.1.1] /Users/nihadsuvalija/.gradle/caches/transforms-3/f79a9626d96cb4b401de17efbd658b18/transformed/jetified-ffmpeg-kit-16kb-6.1.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.50] /Users/nihadsuvalija/.gradle/caches/transforms-3/6b9a357f848881186cebafcda9dc8d8b/transformed/jetified-dagger-lint-aar-2.50/AndroidManifest.xml:16:1-19:12
 	package
 		INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:4:5-5:38
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:5:5-6:38
 	android:maxSdkVersion
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:5:9-35
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:6:9-35
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:4:22-77
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:5:22-77
 uses-permission#android.permission.READ_MEDIA_VIDEO
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:6:5-75
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:7:5-75
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:6:22-72
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:7:22-72
 uses-permission#android.permission.READ_MEDIA_IMAGES
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:7:5-76
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:8:5-76
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:7:22-73
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:8:22-73
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:8:5-9:38
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:9:5-10:38
 	android:maxSdkVersion
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:10:9-35
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:8:22-78
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:9:22-78
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:10:5-77
-MERGED from [androidx.work:work-runtime:2.9.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/8d9ada05d4298842055264606c8dc76a/transformed/work-runtime-2.9.0/AndroidManifest.xml:26:5-77
-MERGED from [androidx.work:work-runtime:2.9.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/8d9ada05d4298842055264606c8dc76a/transformed/work-runtime-2.9.0/AndroidManifest.xml:26:5-77
-	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:10:22-74
-uses-permission#android.permission.POST_NOTIFICATIONS
 ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:11:5-77
+MERGED from [androidx.work:work-runtime:2.9.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/8d9ada05d4298842055264606c8dc76a/transformed/work-runtime-2.9.0/AndroidManifest.xml:26:5-77
+MERGED from [androidx.work:work-runtime:2.9.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/8d9ada05d4298842055264606c8dc76a/transformed/work-runtime-2.9.0/AndroidManifest.xml:26:5-77
 	android:name
 		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:11:22-74
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:12:22-74
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:13:5-14:40
+	tools:ignore
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:14:9-37
+	android:name
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:13:22-79
 application
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:13:5-48:19
-INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:13:5-48:19
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:16:5-53:19
+INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:16:5-53:19
 MERGED from [com.google.android.material:material:1.11.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/7bf02abcb83f95c799b7499c50e46a44/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/7bf02abcb83f95c799b7499c50e46a44/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nihadsuvalija/.gradle/caches/transforms-3/5868d2e3ed0ce445ba80555d76856317/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -154,56 +163,58 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/niha
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nihadsuvalija/.gradle/caches/transforms-3/b7e1ec62c8a45caf46b904ac1aac8e0d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
 		INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:25:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/494ae4fc0d9a5fa053719025deecd26f/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:22:9-35
 	android:label
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:20:9-41
 	android:roundIcon
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:18:9-50
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:21:9-50
 	android:largeHeap
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:21:9-33
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:24:9-33
 	android:icon
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:16:9-45
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:19:9-45
 	android:allowBackup
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:18:9-35
 	android:theme
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:20:9-52
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:23:9-52
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:14:9-42
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:17:9-42
 activity#com.videogenerator.presentation.ui.main.MainActivity
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:23:9-31:20
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:28:9-36:20
 	android:windowSoftInputMode
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:26:13-55
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:31:13-55
 	android:exported
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:25:13-36
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:24:13-62
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:29:13-62
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:27:13-30:29
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:32:13-35:29
 action#android.intent.action.MAIN
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:29:17-77
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:34:27-74
 service#com.videogenerator.service.VideoGenerationService
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:33:9-36:40
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:38:9-41:40
 	android:exported
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:36:13-37
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:41:13-37
 	android:foregroundServiceType
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:35:13-53
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:40:13-53
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:34:13-59
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:39:13-59
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:43:13-45:54
+ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:48:13-50:54
 	android:resource
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:45:17-51
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:50:17-51
 	android:name
-		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:44:17-67
+		ADDED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml:49:17-67
 uses-sdk
 INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/nihadsuvalija/projects/VideoGeneratorApp/app/src/main/AndroidManifest.xml
@@ -354,6 +365,8 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/1785c588a9fd035e3f42cece86f1e9a0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/1301aa96ca33f068c31c9e700480d99d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/nihadsuvalija/.gradle/caches/transforms-3/1301aa96ca33f068c31c9e700480d99d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.moizhassan.ffmpeg:ffmpeg-kit-16kb:6.1.1] /Users/nihadsuvalija/.gradle/caches/transforms-3/f79a9626d96cb4b401de17efbd658b18/transformed/jetified-ffmpeg-kit-16kb-6.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.moizhassan.ffmpeg:ffmpeg-kit-16kb:6.1.1] /Users/nihadsuvalija/.gradle/caches/transforms-3/f79a9626d96cb4b401de17efbd658b18/transformed/jetified-ffmpeg-kit-16kb-6.1.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.dagger:dagger-lint-aar:2.50] /Users/nihadsuvalija/.gradle/caches/transforms-3/6b9a357f848881186cebafcda9dc8d8b/transformed/jetified-dagger-lint-aar-2.50/AndroidManifest.xml:18:3-42
 MERGED from [com.google.dagger:dagger-lint-aar:2.50] /Users/nihadsuvalija/.gradle/caches/transforms-3/6b9a357f848881186cebafcda9dc8d8b/transformed/jetified-dagger-lint-aar-2.50/AndroidManifest.xml:18:3-42
 	android:targetSdkVersion

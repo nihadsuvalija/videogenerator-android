@@ -17,5 +17,5 @@
 -keep class * implements com.google.gson.JsonDeserializer
 
 # Keep data models
--keep class com.videogenerator.data.repository.TextEntryJson { *; }
--keep class com.videogenerator.domain.model.** { *; }
+-keep class com.videogen.studio.data.repository.TextEntryJson { *; }
+-keep class com.videogen.domain.model.** { *; }

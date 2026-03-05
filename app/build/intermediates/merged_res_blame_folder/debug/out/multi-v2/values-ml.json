@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.videogenerator.app-mergeDebugResources-57:/values-ml/values-ml.xml",
+            "outputFile": "com.videogenerator.app-mergeDebugResources-58:/values-ml/values-ml.xml",
             "map": [
                 {
                     "source": "/Users/nihadsuvalija/.gradle/caches/transforms-3/8dba9b1628ee908906c4b94d37431e18/transformed/navigation-ui-2.7.7/res/values-ml/values-ml.xml",

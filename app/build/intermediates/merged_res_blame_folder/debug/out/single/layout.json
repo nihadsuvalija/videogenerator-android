@@ -1,34 +1,30 @@
 [
     {
-        "merged": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-mergeDebugResources-58:/layout/activity_main.xml",
-        "source": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-main-61:/layout/activity_main.xml"
+        "merged": "com.videogenerator.app-mergeDebugResources-59:/layout/item_generated_video.xml",
+        "source": "com.videogenerator.app-main-62:/layout/item_generated_video.xml"
     },
     {
-        "merged": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-mergeDebugResources-58:/layout/fragment_batch_list.xml",
-        "source": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-main-61:/layout/fragment_batch_list.xml"
+        "merged": "com.videogenerator.app-mergeDebugResources-59:/layout/fragment_history.xml",
+        "source": "com.videogenerator.app-main-62:/layout/fragment_history.xml"
     },
     {
-        "merged": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-mergeDebugResources-58:/layout/fragment_batches.xml",
-        "source": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-main-61:/layout/fragment_batches.xml"
+        "merged": "com.videogenerator.app-mergeDebugResources-59:/layout/fragment_batches.xml",
+        "source": "com.videogenerator.app-main-62:/layout/fragment_batches.xml"
     },
     {
-        "merged": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-mergeDebugResources-58:/layout/item_generated_video.xml",
-        "source": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-main-61:/layout/item_generated_video.xml"
+        "merged": "com.videogenerator.app-mergeDebugResources-59:/layout/fragment_generate.xml",
+        "source": "com.videogenerator.app-main-62:/layout/fragment_generate.xml"
     },
     {
-        "merged": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-mergeDebugResources-58:/layout/item_batch.xml",
-        "source": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-main-61:/layout/item_batch.xml"
+        "merged": "com.videogenerator.app-mergeDebugResources-59:/layout/activity_main.xml",
+        "source": "com.videogenerator.app-main-62:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-mergeDebugResources-58:/layout/fragment_history.xml",
-        "source": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-main-61:/layout/fragment_history.xml"
+        "merged": "com.videogenerator.app-mergeDebugResources-59:/layout/item_batch.xml",
+        "source": "com.videogenerator.app-main-62:/layout/item_batch.xml"
     },
     {
-        "merged": "com.videogenerator.app-mergeDebugResources-58:/layout/fragment_generate.xml",
-        "source": "com.videogenerator.app-main-61:/layout/fragment_generate.xml"
-    },
-    {
-        "merged": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-mergeDebugResources-58:/layout/fragment_generate.xml",
-        "source": "/Users/nihadsuvalija/.gradle/daemon/8.4/com.videogenerator.app-main-61:/layout/fragment_generate.xml"
+        "merged": "com.videogenerator.app-mergeDebugResources-59:/layout/fragment_batch_list.xml",
+        "source": "com.videogenerator.app-main-62:/layout/fragment_batch_list.xml"
     }
 ]

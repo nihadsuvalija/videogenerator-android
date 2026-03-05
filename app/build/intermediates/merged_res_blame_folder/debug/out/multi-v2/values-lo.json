@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.videogenerator.app-mergeDebugResources-57:/values-lo/values-lo.xml",
+            "outputFile": "com.videogenerator.app-mergeDebugResources-58:/values-lo/values-lo.xml",
             "map": [
                 {
                     "source": "/Users/nihadsuvalija/.gradle/caches/transforms-3/494ae4fc0d9a5fa053719025deecd26f/transformed/core-1.12.0/res/values-lo/values-lo.xml",
